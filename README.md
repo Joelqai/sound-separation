@@ -5,6 +5,7 @@ Open-source datasets and deep learning models for separating sounds.
 ## Datasets
 
 * [Free Universal Sound Separation (FUSS) dataset](https://github.com/google-research/sound-separation/blob/master/datasets/fuss/FUSS_license_doc/README.md).
+Scott Wisdom, Hakan Erdogan, Dan Ellis, John R. Hershey (Google Research)
 
 ## Models
 
